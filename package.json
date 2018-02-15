@@ -13,6 +13,8 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^5.2.0",
+    "primeng": "^4.1.0",
+    "font-awesome": "^4.7.0",
     "@angular/common": "^5.2.0",
     "@angular/compiler": "^5.2.0",
     "@angular/core": "^5.2.0",
